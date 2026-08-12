@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sanjanapriya G
 
-<!--
-**sanjanapriya77/sanjanapriya77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ML Developer | Machine Learning | Deep Learning | Python
 
-Here are some ideas to get you started:
+> **I don't just train models. I test whether they work.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build machine learning systems end-to-end — from **raw data to deployed predictions**. My work focuses on turning data into practical ML solutions through preprocessing, feature engineering, model development, evaluation, and deployment.
+
+---
+
+## 🧪 ML Field Notes
+
+```text
+QUESTION
+   ↓
+DATA
+   ↓
+EXPERIMENT
+   ↓
+MODEL
+   ↓
+EVIDENCE
+   ↓
+DEPLOYMENT
+   ↓
+REAL-WORLD USE
