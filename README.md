@@ -1,111 +1,12 @@
-<div align="center">
+<p data-importer="text" align="left"><div align="center"><br><br># SANJANAPRIYA G<br><br>
+### `ML DEVELOPER` · `MACHINE LEARNING` · `DEEP LEARNING`<br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+ML+systems+end-to-end;From+raw+data+to+deployed+predictions;Data+%E2%86%92+Models+%E2%86%92+Evidence+%E2%86%92+Deployment" alt="Typing SVG" /><br><br><br><br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjanapriya-g77)<br>[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanapriyag23ec@psnacet.edu.in)<br><br></div><br><br>---<br><br>## 🧪 ML FIELD NOTES<br><br>> **I don't just train models. I test whether they work.**<br><br>I build machine learning systems end-to-end — from **raw data to deployed predictions**.<br><br><div align="center"><br><br>
+### `QUESTION` → `DATA` → `EXPERIMENT` → `MODEL` → `EVIDENCE` → `DEPLOYMENT`<br><br></div><br><br>---<br><br>## 🚀 PROJECTS<br><br><table><br><tr><br><br><td width="33%" valign="top"><br><br>
+### 🫀 Predictive Healthcare Analytics<br><br>**Heart Disease Prediction**<br><br>`Python` `Scikit-learn` `Random Forest`  <br>`GridSearchCV` `Cross-Validation` `Streamlit`<br><br>**84.88% Test Accuracy**  <br>**88.28% 5-Fold CV Accuracy**<br><br>[View Project →](https://github.com/sanjanapriya77/predictive-healthcare-analytics)<br><br></td><br><br><td width="33%" valign="top"><br><br>
+### 🏥 Hospital Resource Intelligence<br><br>**Hospital Operations & ML**<br><br>`Python` `SQL` `MySQL`  <br>`Pandas` `Scikit-learn` `Streamlit`<br><br>ETL pipeline + operational analytics +  <br>ML-based resource risk classification.<br><br>[View Project →](https://github.com/sanjanapriya77/hospital-resource-intelligence-platform)<br><br></td><br><br><td width="33%" valign="top"><br><br>
+### 🩻 Pneumonia Detection<br><br>**Medical Image Classifier**<br><br>`TensorFlow/Keras` `CNN`  <br>`Transfer Learning` `Computer Vision`<br><br>Chest X-ray classification:<br><br>**Normal vs Pneumonia**<br><br>[View Project →](https://github.com/sanjanapriya77/pneumonia-detection-cnn)<br><br></td><br><br></tr><br></table><br><br>---<br><br>## ⚙️ TECH STACK<br><br>
+### 🐍 Programming & Data<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br><br>
+### 🤖 Machine Learning<br><br>![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br><br>`ML Pipelines` · `Feature Engineering` · `GridSearchCV`  <br>`Cross-Validation` · `Classification` · `Model Evaluation`<br><br>
+### 🧠 Deep Learning<br><br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br><br>`CNNs` · `Transfer Learning` · `Computer Vision`<br><br>
+### 🚀 Deployment & Tools<br><br>![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>---<br><br>## 🔬 CURRENTLY BUILDING<br><br>```text<br>Deep Learning<br>      │<br>      ├── CNNs<br>      ├── Transfer Learning<br>      └── Computer Vision<br>              │<br>              ▼<br>       Model Evaluation<br>              │<br>              ▼<br>         Deployment<br>              │<br>              ▼<br>        Real-world ML</p>
 
-# SANJANAPRIYA G
-
-### `ML DEVELOPER` · `MACHINE LEARNING` · `DEEP LEARNING`
-
-**I don't just train models. I test whether they work.**
-
-[LinkedIn](https://linkedin.com/in/sanjanapriya-g77) · [Email](mailto:sanjanapriyag23ec@psnacet.edu.in) · [GitHub](https://github.com/<your-username>)
-
-</div>
-
----
-
-## 🧪 ML Field Notes
-
-> [!NOTE]
-> I build machine learning systems end-to-end — from **raw data to deployed predictions**.
-> My focus isn't just training a model. It's the full journey: **Question → Data → Experiment → Model → Evidence → Deployment.**
-
-```diff
-+ A model doesn't ship because it trained successfully.
-+ It ships because the evidence holds up.
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🫀 Predictive Healthcare Analytics
-
-> [!TIP]
-> **Shipped** — heart disease prediction using an optimized Random Forest pipeline.
-
-| | |
-|---|---|
-| **Question** | Can patient features predict heart disease reliably? |
-| **Stack** | `Python` `Scikit-learn` `Pandas` `GridSearchCV` `Streamlit` |
-| **Evidence** | 🎯 84.88% Test Accuracy · 📊 88.28% 5-Fold CV Accuracy |
-| **Repo** | [predictive-healthcare-analytics](https://github.com/<your-username>/predictive-healthcare-analytics) |
-
----
-
-### 🏥 Hospital Resource Intelligence Platform
-
-> [!IMPORTANT]
-> **In progress** — ETL + ML-based operational risk classification.
-
-| | |
-|---|---|
-| **Question** | Can hospital operations data drive real-time predictions? |
-| **Stack** | `Python` `SQL` `MySQL` `Pandas` `Scikit-learn` `Streamlit` |
-| **Output** | Interactive resource intelligence dashboard |
-| **Repo** | [hospital-resource-intelligence-platform](https://github.com/<your-username>/hospital-resource-intelligence-platform) |
-
----
-
-### 🩻 Pneumonia Detection
-
-> [!IMPORTANT]
-> **In progress** — chest X-ray classification using transfer learning.
-
-| | |
-|---|---|
-| **Question** | Can a CNN reliably distinguish Normal vs Pneumonia X-rays? |
-| **Stack** | `TensorFlow/Keras` `CNN` `Transfer Learning` `Streamlit` |
-| **Evaluation** | Recall · F1 · ROC-AUC |
-| **Repo** | [pneumonia-detection-cnn](https://github.com/<your-username>/pneumonia-detection-cnn) |
-
----
-
-## ⚙️ Tech Stack
-
-```yaml
-Languages:      Python, SQL
-Machine Learning: Scikit-learn, Pandas, NumPy
-                  → Pipelines, Feature Engineering, GridSearchCV, Cross-Validation
-Deep Learning:    TensorFlow, PyTorch
-                  → CNNs, Transfer Learning, Computer Vision
-Database:         MySQL
-Deployment:       Streamlit, Docker
-Tools:            Git, GitHub
-```
-
----
-
-## 🔬 Currently Building
-
-```diff
-  Deep Learning
-+     CNNs
-+     Transfer Learning
-+     Computer Vision
-        │
-!   Model Evaluation
-        │
-+   Deployment
-        │
-#   Real-world ML
-```
-
----
-
-> [!CAUTION]
-> Every model here has been measured before it was shipped. That's the standard.
-
-<div align="center">
-
-**QUESTION → DATA → EXPERIMENT → MODEL → EVIDENCE → DEPLOYMENT**
-
-</div>
+###
